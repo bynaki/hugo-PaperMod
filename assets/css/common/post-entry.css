@@ -1,3 +1,4 @@
+
 .first-entry {
     position: relative;
     display: flex;
@@ -56,6 +57,7 @@
 }
 
 .entry-content {
+    font-family: 'MaruBuri-Regular';
     margin: 8px 0;
     color: var(--secondary);
     font-size: 14px;

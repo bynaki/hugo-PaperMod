@@ -9,6 +9,20 @@ html {
     overflow-y: scroll;
 }
 
+@font-face {
+    font-family: 'MaruBuri-Regular';
+    src: url('/fonts/MaruBuri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FiraCode-Regular';
+    src: url('/fonts/FiraCode-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 a,
 button,
 body,
@@ -115,7 +129,7 @@ img {
     max-width: 100%;
 }
 
-::-webkit-scrollbar-track {
+/* ::-webkit-scrollbar-track {
     background: 0 0;
 }
 
@@ -135,4 +149,4 @@ img {
 
 ::-webkit-scrollbar-thumb:hover {
     background: var(--secondary);
-}
+} */

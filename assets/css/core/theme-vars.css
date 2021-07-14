@@ -18,13 +18,13 @@
 }
 
 .dark {
-    --theme: #1d1e20;
+    --theme: #121826;
     --entry: #2e2e33;
     --primary: rgba(255, 255, 255, 0.84);
     --secondary: rgba(255, 255, 255, 0.56);
     --tertiary: rgba(255, 255, 255, 0.16);
     --content: rgba(255, 255, 255, 0.74);
-    --hljs-bg: #2e2e33;
+    --hljs-bg: #1b2233;
     --code-bg: #37383e;
     --border: #333;
 }
